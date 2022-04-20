@@ -12,7 +12,7 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://assadounto.github.io/MicroverseProject1/)
 
 
 To get a local copy up and running follow these simple example steps.

@@ -21,13 +21,15 @@ To get a local copy up and running follow these simple example steps.
 Setup
 - Clone this repository git clone 
 - git clone git@github.com:assadounto/MicroverseProject1.git
-Install
+
+##Install
 install node.js and nvm
 
-Run tests
+##Run tests
 -To run test , open page deployment in google chrome
 -Click inspect and choose audit to use lighthouse test
-Deployment
+
+##Deployment
 -Open clone repository 
 -Choose settings tab of repository
 -choose pages

@@ -1,56 +1,48 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# hello_microverse_project
 
-> Description the project.
+> Introduction to linters and Github flow
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- css
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+[Live Demo Link](https://assadounto.github.io/MicroverseProject1/)
 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Prerequisites
+Setup
+- Clone this repository  
+- git clone git@github.com:assadounto/MicroverseProject1.git
 
-### Setup
+# Install
+install node.js and nvm
 
-### Install
+# Run tests
+-To run test , open page deployment in google chrome
+-Click inspect and choose audit to use lighthouse test
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+# Deployment
+-Open clone repository 
+-Choose settings tab of repository
+-choose pages
+-Select main branch and save(It takes a while to deploy)
 
 ## Authors
 
-👤 **Author1**
+👤 **Rich**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/assadohounto)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
